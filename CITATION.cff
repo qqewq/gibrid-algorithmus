@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Hybrid Resonant Algorithm (HRA)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Oleg
+    name: Oleg
+version: "0.1.0"
+date-released: "2025-08-26"
+license: MIT
+repository-code: "https://github.com/your-name/hybrid-resonant-algorithm"
